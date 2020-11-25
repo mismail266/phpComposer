@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<dataset>
+    <blusskytask CustomerID="1" Customername="Alfreds Futterkiste" Address="Obere Str. 57a" City="12345" PostalCode="Berlin" Country="Germany" />
+    <blusskytask CustomerID="2" Customername="Ana Trujillo Emparedados y helados" Address="Avda. de la Constitución 2222" City="México D.F." PostalCode="12209" Country="Germany" />
+    <blusskytask CustomerID="3" Customername="Antonio Moreno Taquería" Address="Mataderos 2312" City="México D.F." PostalCode="12209" Country="Mexico" />
+</dataset>
